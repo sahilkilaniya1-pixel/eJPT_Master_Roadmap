@@ -1,0 +1,3 @@
+# 📝 Notes & Commands - Week_38
+
+Write your daily learnings here...

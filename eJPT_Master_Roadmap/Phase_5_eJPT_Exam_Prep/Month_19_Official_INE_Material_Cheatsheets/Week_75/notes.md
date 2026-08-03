@@ -1,0 +1,3 @@
+# 📝 Notes & Commands - Week_75
+
+Write your daily learnings here...

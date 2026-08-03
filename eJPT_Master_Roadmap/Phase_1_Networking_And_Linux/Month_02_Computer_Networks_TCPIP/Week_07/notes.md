@@ -1,0 +1,3 @@
+# 📝 Notes & Commands - Week_07
+
+Write your daily learnings here...

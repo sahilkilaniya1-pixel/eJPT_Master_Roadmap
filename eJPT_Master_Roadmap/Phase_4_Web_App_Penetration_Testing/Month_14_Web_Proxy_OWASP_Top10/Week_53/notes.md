@@ -1,0 +1,3 @@
+# 📝 Notes & Commands - Week_53
+
+Write your daily learnings here...

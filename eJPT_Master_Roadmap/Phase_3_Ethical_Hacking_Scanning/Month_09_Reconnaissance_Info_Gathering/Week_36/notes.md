@@ -1,0 +1,3 @@
+# 📝 Notes & Commands - Week_36
+
+Write your daily learnings here...
